@@ -1,5 +1,5 @@
 {
-    "name": "Comfee Gand Bot 3",
+    "name": "MIRROR BOT",
     "description": "A Telegram bot for all your mirror needs",
     "logo": "https://telegra.ph/file/c166b12d8f752387aad5a.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/akashthakkar7990/ghostmirror",
     "website": "https://github.com/akashthakkar7990/ghostmirror",
-    "success_url": "https://t.me/comfee_gang",
+    "success_url": "https://t.me/akash1922",
     "stack": "container",
     "env": {
       "ENV": {
